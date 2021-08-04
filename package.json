@@ -17,7 +17,7 @@
     "react-native": "0.64.1"
   },
   "devDependencies": {
-    "@babel/core": "7.14.8",
+    "@babel/core": "7.15.0",
     "@babel/runtime": "7.14.8",
     "@commitlint/cli": "13.1.0",
     "@commitlint/config-conventional": "13.1.0",
