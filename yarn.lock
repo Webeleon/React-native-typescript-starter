@@ -7323,10 +7323,10 @@ typedarray@^0.0.6:
   resolved "https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@3.9.10:
-  version "3.9.10"
-  resolved "https://registry.npmjs.org/typescript/-/typescript-3.9.10.tgz"
-  integrity sha512-w6fIxVE/H1PkLKcCPsFqKE7Kv7QUwhU8qQY2MueZXWx5cPZdwFupLgKK3vntcK98BtNHZtAF4LA/yl2a7k8R6Q==
+typescript@4.4.3:
+  version "4.4.3"
+  resolved "https://registry.npmjs.org/typescript/-/typescript-4.4.3.tgz"
+  integrity sha512-4xfscpisVgqqDfPaJo5vkd+Qd/ItkoagnHpufr+i2QCHBsNYp+G7UAoyFl8aPtx879u38wPV65rZ8qbGZijalA==
 
 uglify-es@^3.1.9:
   version "3.3.9"
