@@ -6424,10 +6424,10 @@ react-native-codegen@^0.0.8:
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
 
-react-native@0.67.3:
-  version "0.67.3"
-  resolved "https://registry.npmjs.org/react-native/-/react-native-0.67.3.tgz"
-  integrity sha512-epMVRMRH7dLCis97+YwiV4dmTVZO6qKmQgwcTNcxVt/kEMxAa+OYK7h81+99/n7XCeMFk/U2zYOBuQqc7c5Amg==
+react-native@0.67.4:
+  version "0.67.4"
+  resolved "https://registry.npmjs.org/react-native/-/react-native-0.67.4.tgz"
+  integrity sha512-NA9d9lNJu9TViEJu2uZxWXUP+QNUilGGA5tdMbVFedNroOH1lnQ3n/FAVoGK1gqGarCgNTtheBxUpEa979Cu8w==
   dependencies:
     "@jest/create-cache-key-function" "^27.0.1"
     "@react-native-community/cli" "^6.0.0"
