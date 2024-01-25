@@ -1607,10 +1607,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-test-renderer@17.0.5":
-  version "17.0.5"
-  resolved "https://registry.npmjs.org/@types/react-test-renderer/-/react-test-renderer-17.0.5.tgz"
-  integrity sha512-k9vUGzS7cCwc30X5MmxQnsztds+9FTC44O/c62vJlLqK02B8XsqHOhpI97fK6XxLuC08hkHikKYE1jzHuKXOzw==
+"@types/react-test-renderer@17.0.9":
+  version "17.0.9"
+  resolved "https://registry.npmjs.org/@types/react-test-renderer/-/react-test-renderer-17.0.9.tgz"
+  integrity sha512-bOfxcu5oZ+KxvACScbkTwZ4eGCtZFTz4VZCOVAIfGbThxqiXSIGipKVG8ubaYBXquUSQROzNIUzviWdSnnAlzg==
   dependencies:
     "@types/react" "^17"
 
