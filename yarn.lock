@@ -1607,16 +1607,16 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-test-renderer@17.0.9":
-  version "17.0.9"
-  resolved "https://registry.npmjs.org/@types/react-test-renderer/-/react-test-renderer-17.0.9.tgz"
-  integrity sha512-bOfxcu5oZ+KxvACScbkTwZ4eGCtZFTz4VZCOVAIfGbThxqiXSIGipKVG8ubaYBXquUSQROzNIUzviWdSnnAlzg==
+"@types/react-test-renderer@18.0.7":
+  version "18.0.7"
+  resolved "https://registry.npmjs.org/@types/react-test-renderer/-/react-test-renderer-18.0.7.tgz"
+  integrity sha512-1+ANPOWc6rB3IkSnElhjv6VLlKg2dSv/OWClUyZimbLsQyBn8Js9Vtdsi3UICJ2rIQ3k2la06dkB+C92QfhKmg==
   dependencies:
-    "@types/react" "^17"
+    "@types/react" "*"
 
 "@types/react@*", "@types/react@^17":
   version "17.0.75"
-  resolved "https://registry.npmjs.org/@types/react/-/react-17.0.75.tgz"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.75.tgz#cffbc76840a12fcadaf5a3cf14878bb06efcf73d"
   integrity sha512-MSA+NzEzXnQKrqpO63CYqNstFjsESgvJAdAyyJ1n6ZQq/GLgf6nOfIKwk+Twuz0L1N6xPe+qz5xRCJrbhMaLsw==
   dependencies:
     "@types/prop-types" "*"
