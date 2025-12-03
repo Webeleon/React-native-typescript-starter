@@ -13,7 +13,7 @@
     "release": "standard-version"
   },
   "dependencies": {
-    "react": "17.0.2",
+    "react": "19.2.1",
     "react-native": "0.68.2"
   },
   "devDependencies": {
@@ -32,12 +32,12 @@
     "lint-staged": "11.2.6",
     "metro-react-native-babel-preset": "0.77.0",
     "prettier": "2.8.8",
-    "react-test-renderer": "17.0.2",
+    "react-test-renderer": "19.2.1",
     "standard-version": "9.5.0",
     "typescript": "4.9.5"
   },
   "resolutions": {
-    "@types/react": "^17"
+    "@types/react": "^19.0.0"
   },
   "jest": {
     "preset": "react-native",
