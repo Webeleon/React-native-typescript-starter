@@ -1595,10 +1595,10 @@
   dependencies:
     "@types/react" "^17"
 
-"@types/react@*", "@types/react@^17", "@types/react@^17.0.90":
-  version "17.0.90"
-  resolved "https://registry.npmjs.org/@types/react/-/react-17.0.90.tgz"
-  integrity sha512-P9beVR/x06U9rCJzSxtENnOr4BrbJ6VrsrDTc+73TtHv9XHhryXKbjGRB+6oooB2r0G/pQkD/S4dHo/7jUfwFw==
+"@types/react@*", "@types/react@^17", "@types/react@^17.0.93":
+  version "17.0.93"
+  resolved "https://registry.npmjs.org/@types/react/-/react-17.0.93.tgz"
+  integrity sha512-KM4Ty/ZTLZupiYxZVAlP+InNJS3De6uBMdq0ePa6/04+eG9Y7ftnWfst1xTLQ5rwAhgHwQ4momt/O4KepdGBTw==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "^0.16"
